@@ -1,0 +1,6 @@
+@PlancareBackend_HostAddress = http://localhost:5128
+
+GET {{PlancareBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
